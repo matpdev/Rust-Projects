@@ -1,0 +1,12 @@
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/tempfile-2019c796e27e34ee.rmeta: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs
+
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/tempfile-2019c796e27e34ee.d: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs
+
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/lib.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/dir.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/error.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/mod.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/mod.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/spooled.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/util.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.3.0/src/file/imp/unix.rs:

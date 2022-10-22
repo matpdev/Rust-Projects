@@ -1,0 +1,12 @@
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/getrandom-ec149610beefdb86.rmeta: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/libgetrandom-ec149610beefdb86.rlib: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/getrandom-ec149610beefdb86.d: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs
+
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/lib.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/error.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/util_libc.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/use_file.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.7/src/macos.rs:

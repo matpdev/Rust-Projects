@@ -1,0 +1,11 @@
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/serde_urlencoded-b831da051133dea8.rmeta: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/Users/matpdev/Projetos/rust_projects/proj8/target/debug/deps/serde_urlencoded-b831da051133dea8.d: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs
+
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/lib.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/de.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/mod.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/key.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/pair.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/part.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_urlencoded-0.5.5/src/ser/value.rs:

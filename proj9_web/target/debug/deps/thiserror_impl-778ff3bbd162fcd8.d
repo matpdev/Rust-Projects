@@ -1,0 +1,12 @@
+/Users/matpdev/Projetos/rust_projects/proj9_web/target/debug/deps/libthiserror_impl-778ff3bbd162fcd8.dylib: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/Users/matpdev/Projetos/rust_projects/proj9_web/target/debug/deps/thiserror_impl-778ff3bbd162fcd8.d: /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs /Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs
+
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/lib.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/ast.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/attr.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/expand.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/fmt.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/generics.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/prop.rs:
+/Users/matpdev/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-impl-1.0.37/src/valid.rs:
